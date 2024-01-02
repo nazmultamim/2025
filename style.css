@@ -290,6 +290,12 @@ hr {
         transform: translateY(0);
     }
 
+    .time-date{
+        margin-top: 0;
+        margin-left: 80%;
+        font-size: 10px;
+        opacity: 70%;
+    }
 
 }
 
